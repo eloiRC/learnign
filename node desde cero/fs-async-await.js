@@ -2,7 +2,7 @@ import { error, log } from "node:console"
 import fs from "node:fs/promises"
 
 
-// !codigo async await 
+// !codigo async await  
 
     console.log('Leyendo primer archivo...');
     const text = await fs.readFile("./archivo.txt", 'utf-8')
