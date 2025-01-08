@@ -20,7 +20,7 @@ import fs from "node:fs"
 //  console.log('Leyendo segundo archivo...');
 //  const secondText = fs.readFileSync("./archivo2.txt", 'utf-8')
 
-//  console.log(secondText);
+//  console.log(secondText); 
 
 
  //! codi asyncrono
