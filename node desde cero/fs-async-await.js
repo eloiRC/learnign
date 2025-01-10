@@ -1,4 +1,3 @@
-import { error, log } from "node:console"
 import fs from "node:fs/promises"
 
 
