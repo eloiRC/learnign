@@ -1,0 +1,30 @@
+{
+  "name": "express-video-2",
+  "version": "1.0.0",
+  "description": "segon video de curs node de mindudev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eloiRC/learnign.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "js"
+  ],
+  "author": "eloi_rc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eloiRC/learnign/issues"
+  },
+  "homepage": "https://github.com/eloiRC/learnign#readme",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends":"standard"
+  }
+}
